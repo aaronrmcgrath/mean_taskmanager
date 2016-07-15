@@ -1,0 +1,11 @@
+{
+  "name": "mean_taskmanager",
+  "version": "1.0.0",
+  "description": "MEAN Stack Task Manager to test out ideas/concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron R McGrath",
+  "license": "ISC"
+}
